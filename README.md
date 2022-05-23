@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "100%" src="https://www.teahub.io/photos/full/356-3567634_best-machine-learning-wallpapers-ever.png" alt="cover" />
+<img width="100%" height = "70%" src="https://www.teahub.io/photos/full/356-3567634_best-machine-learning-wallpapers-ever.png" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
