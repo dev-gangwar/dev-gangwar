@@ -3,7 +3,11 @@
 <img width="100%" height = "256px" src="https://cdn.dribbble.com/users/1787323/screenshots/11365170/media/e6c6ad993c83c7b66770d49b41c47856.png?compress=1&resize=1200x900&vertical=top" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">A passionate Machine Learning Student from India</h3>
+### About
+
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition. 
+
+💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 
