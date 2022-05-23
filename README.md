@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "256px" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=1200x900&vertical=top" alt="cover" />
+<img width="100%" height = "256px" src="https://cdn.dribbble.com/users/1787323/screenshots/11365170/media/e6c6ad993c83c7b66770d49b41c47856.png?compress=1&resize=1200x900&vertical=top" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
