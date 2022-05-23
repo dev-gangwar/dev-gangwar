@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gangwar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gangwar" alt="dev-gangwar" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Pose Detection And Classification](https://github.com/dev-gangwar/Pose-detection-and-classification/tree/main)
 
