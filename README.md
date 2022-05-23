@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif)">
 
 - 🔭 I’m currently working on [Pose Detection And Classification](https://github.com/dev-gangwar/Pose-detection-and-classification/tree/main)
 
